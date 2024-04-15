@@ -4,8 +4,6 @@ touch 1.html
 touch 2.css
 touch 3.php
 vim 1.html
-git config --global user.name = "SartenDev"
-git config --global user.email = matiskow.777@gmail.com
 git init
 git add .
 git commit -m "initial"
